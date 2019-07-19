@@ -1,4 +1,4 @@
-module chapi-internal
+module  github.com/thanhniencung/chapi-internal
 
 go 1.12
 

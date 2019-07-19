@@ -1,7 +1,7 @@
 package helper
 
 import (
-	"chapi-backend/chapi-internal/model"
+	"github.com/thanhniencung/chapi-internal/model"
 	"regexp"
 )
 

@@ -1,7 +1,7 @@
 package middleware
 
 import (
-	"chapi-internal/model"
+	"github.com/thanhniencung/chapi-internal/model"
 	"errors"
 	"github.com/dgrijalva/jwt-go"
 	"github.com/labstack/echo"
