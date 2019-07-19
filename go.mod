@@ -1,4 +1,4 @@
-module chapi-backend/chapi-internal
+module chapi-internal
 
 go 1.12
 

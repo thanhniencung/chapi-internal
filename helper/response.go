@@ -1,7 +1,7 @@
 package helper
 
 import (
-	"chapi-backend/chapi-internal/model"
+	"chapi-internal/model"
 	"github.com/labstack/echo"
 	"net/http"
 )
